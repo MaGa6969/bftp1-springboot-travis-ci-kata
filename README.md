@@ -1,5 +1,7 @@
 # SpringBoot + Travis CI 
 
+[![Build Status](https://app.travis-ci.com/MaGa6969/bftp1-springboot-travis-ci-kata.svg?branch=main)](https://app.travis-ci.com/MaGa6969/bftp1-springboot-travis-ci-kata)
+
 Este proyecto sirve como ejemplo para practicar integración continua con Travis CI y hacer tests de integración.
 
 Haz un fork para trabajar con él.
